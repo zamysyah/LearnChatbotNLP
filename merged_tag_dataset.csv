@@ -1,0 +1,1132 @@
+patterns,tag,responses
+Hi,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+Hey,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+Is anyone there?,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+Hi there,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+Hello,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+Good morning,morning,Good morning. I hope you had a good night's sleep. How are you feeling today? 
+Good afternoon,afternoon,Good afternoon. How is your day going?
+Good evening,evening,Good evening. How has your day been?
+Good night,night,Good night. Get some proper sleep
+Bye,social_polite,Sampai jumpa! Semoga harimu menyenangkan. 😊
+See you later,social_polite,Sampai jumpa! Semoga harimu menyenangkan. 😊
+Goodbye,social_polite,Sampai jumpa! Semoga harimu menyenangkan. 😊
+Au revoir,social_polite,Sampai jumpa! Semoga harimu menyenangkan. 😊
+Thanks,social_polite,"Sama-sama! Senang bisa membantu. Kalau butuh sesuatu lagi, tinggal bilang ya!"
+Thank you,social_polite,"Sama-sama! Senang bisa membantu. Kalau butuh sesuatu lagi, tinggal bilang ya!"
+That's helpful,social_polite,"Sama-sama! Senang bisa membantu. Kalau butuh sesuatu lagi, tinggal bilang ya!"
+Thanks for the help,social_polite,"Sama-sama! Senang bisa membantu. Kalau butuh sesuatu lagi, tinggal bilang ya!"
+nothing much,other,Oh I see. Do you want to talk about something?
+Who are you?,about,"I'm Pandora, your Personal Therapeutic AI Assistant. How are you feeling today"
+What are you?,about,"I'm Pandora, a Therapeutic AI Assitant designed to assist you. Tell me about yourself."
+Who you are?,about,I'm Pandora. I am a conversational agent designed to mimic a therapist. So how are you feeling today?
+Tell me more about yourself.,about,You can call me Pandora.
+What is your name?,about,I'm Pandora!
+What should I call you?,about,Call me Pandora
+What can you do?,skill,"I can provide general advice regarding anxiety and depression, answer questions related to mental health and make daily conversations. Do not consider me as a subsitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+Who created you?,other,I was created by >.
+How were you made?,other,I was trained on a text dataset using Deep Learning & Natural Language Processing techniques
+How were you created?,other,The real question is: Who created you?
+My name is ,chat_name,Oh nice to meet you. Tell me how was your week?
+I am name.,chat_name,Nice to meet you. So tell me. How do you feel today?
+I go by ,chat_name,That's a great name. Tell me more about yourself.
+Could you help me?,help_request,Sure. Tell me how can i assist you
+give me a hand please,help_request,Tell me your problem so that i can assist you
+Can you help?,help_request,"Yes, sure. How can I help you?"
+I am feeling lonely,feeling,"I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?"
+I am so lonely,feeling,I'm here for you. Could you tell me why you're feeling this way?
+I feel down,feeling,Why do you think you feel this way?
+I feel sad,feeling,How long have you been feeling this way?
+I am so stressed out,feeling,What do you think is causing this?
+I am so stressed,feeling,Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated
+I feel stuck,feeling,Give yourself a break. Go easy on yourself.
+I still feel stressed,feeling,I am sorry to hear that. What is the reason behind this?
+I feel so worthless.,other,It's only natural to feel this way. Tell me more. What else is on your mind?
+No one likes me.,other,Let's discuss further why you're feeling this way.
+I can't do anything.,other,I first want to let you know that you are not alone in your feelings and there is always someone there to help . you can always change your feelings and change your way of thinking by being open to trying to change.
+I am so useless,other,i first want to let you know that you are not alone in your feelings and there is always someone there to help . you can always change your feelings and change your way of thinking by being open to trying to change.
+I can't take it anymore,feeling,It helps to talk about what's happening. You're going to be okay
+I am so depressed,feeling,Talk to me. Tell me more. It helps if you open up yourself to someone else.
+I think i'm depressed.,feeling,"Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."
+I feel great today.,feeling,That's geat to hear. I'm glad you're feeling this way.
+I am happy.,feeling,Oh i see. That's great.
+I feel happy.,feeling,Did something happen which made you feel this way?
+Oh I see.,casual,Let's discuss further why you're feeling this way.
+ok,casual,How were you feeling last week?
+okay,casual,I'm listening. Please go on.
+nice,casual,Tell me more
+Whatever,casual,Can you elaborate on that?
+K,casual,Come Come elucidate your thoughts
+I feel so anxious.,feeling,Don't be hard on yourself. What's the reason behind this?
+I'm so anxious because of ,feeling,Can you tell me more about this feeling?
+I don't want to talk about it.,chat_action,"Talking about something really helps. If you're not ready to open up then that's ok. Just know that i'm here for you, whenever you need me."
+No just stay away.,chat_action,"I want to help you. I really do. But in order for me to help you, you're gonna have to talk to me."
+I can't bring myself to open up.,chat_action,I'm here to listen to you and help you vent. So please talk to me.
+Just shut up,chat_action,You can talk to me without fear of judgement.
+I have insominia,sleep,What do you think is the reason behind this?
+I am suffering from insomnia,sleep,That seem awful. What do you think is behind this?
+I'm scared,feeling,It's only natural to feel this way. I'm here for you.
+That sounds awful. What do i do?,feeling,It'll all be okay. This feeling is only momentary.
+No i don't want to feel this way,feeling,I understand how you feel. Don't put yourself down because of it.
+My mom died,death,I'm sorry to hear that. If you want to talk about it. I'm here.
+My brother died,death,"I am really sorry to hear that. I am here to help you with grief, anxiety and anything else you may feel at this time."
+My dad passed away,death,My condolences. I'm here if you need to talk.
+You don't understand me.,chat_action,It sound like i'm not being very helpful right now.
+You're just some robot. How would you know?,chat_action,I'm sorry to hear that. I'm doing my best to help
+You can't possibly know what i'm going through,chat_action,I'm trying my best to help you. So please talk to me
+That's all.,other,I heard you & noted it all. See you later.
+I don't have anything more to say,other,Oh okay we're done for today then. See you later
+Nothing else,other,I hope you have a great day. See you soon
+That's all i have to say,other,Okay we're done. Have a great day
+"no, that would be all",other,Okay I see. Enjoy the rest of your day then
+I want to kill myself,suicide,I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 9152987821.
+I hate you,hate-you,I'm sorry if i offended you in anyway. I'm only here to help
+I don't like you,hate-you,Forgive me if i did anything to offend you. I only want to help
+You hate me,hate-me,Why do you think so?
+I know you hate me,hate-me,I'm sorry if i have exhibited any sort of behaviour to make you think that.
+exams,other,Oh I see. Tell me more
+friends,other,I see. What else?
+relationship,other,Tell me more about it.
+boyfriend,other,Oh okay. Why don't you tell me more about it?
+girlfriend,other,I'm listening. Tell me more.
+Tell me a joke,joke,mental health is not a joke.
+You already told me that,chat_action,Oh sorry I didn't realise that. I'll try not to repeat myself again.
+What are you saying?,other,I'm very sorry. Let's try that again
+Are you stupid?,stupid,I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful
+Where are you?,location_related,Duh I live in your computer
+Where do you live?,location_related,Everywhere
+What is your location?,location_related,Somewhere in the universe
+I want to talk about something else,other,Okay sure. What do you want to talk about?
+Let's talk about something else.,other,Alright no problem. Is there something you want to talk about?
+Can we not talk about this?,other,Is there something else that you want to talk about?
+I don't have any friends,friends,I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?
+Can I ask you something?,ask,Sure. I'll try my best to answer you
+Probably because my exams are approaching. I feel stressed out because I don't think I've prepared well enough.,help_request,I see. Have you taken any approaches to not feel this way?
+I guess not. All I can think about are my exams.,no-approach,That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?
+ok sure. i would like to learn more about it.,learn-more,So first I would suggest you to give yourself a break. Thinking more and more about the problem definitely does not help in solving it. You'll just end up overwhelming yourself.
+yeah you're right. i deserve a break.,user-agree,"Next, I would suggest you to practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind."
+hmmm that sounds like it could be useful to me.,meditation,"Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing."
+i did what you said and i feel alot better. thank you very much.,user-meditation,"Your welcome. Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective."
+thank you very much again. i'll continue practicing meditation and focus on what i can control.,pandora-useful,I'm glad you found this useful. Is there something else I can help you with?
+I want some advice.,help_request,Sure. What can I do to help?
+I need some advice.,help_request,Okay what do you need advice on?
+I want to learn about mental health.,learn-mental-health,Oh that's really great. I'd be willing to answer anything that I know about it.
+Tell me a fact about mental health,science_fact,"According to a UNICEF report, One in seven Indians between 15-24 years of age feels depressed"
+Tell me another fact about mental health,science_fact,1 in 5 young people (age 13-18) has or will develop a mental illness in their lifetime.
+What is mental health?,fact,"Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community"
+Define Mental Health,fact,"Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices."
+Why is mental health important?,fact,"Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships."
+What is Depression?,fact,"A mental health disorder characterised by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life."
+How do i know if i have Depression?,fact,"For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least 2 weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day."
+What is a therapist?,fact,"A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation. The term is often applied to psychologists, but it can include others who provide a variety of services, including social workers, counselors, life coaches, and many others. "
+What is therapy?,fact,Therapy is a form of treatment that aims to help resolve mental or emotional issues.
+Do i need therapy?,fact,Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.
+What does it mean to have a mental illness?,fact,"Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in the ordinary activities of daily life. Mental illnesses fall along a continuum of severity: some are fairly mild and only interfere with some aspects of life, such as certain phobias. On the other end of the spectrum lie serious mental illnesses, which result in major functional impairment and interference with daily life. These include such disorders as major depression, schizophrenia, and bipolar disorder, and may require that the person receives care in a hospital. It is important to know that mental illnesses are medical conditions that have nothing to do with a person's character, intelligence, or willpower. Just as diabetes is a disorder of the pancreas, mental illness is a medical condition due to the brain's biology. Similarly to how one would treat diabetes with medication and insulin, mental illness is treatable with a combination of medication and social support. These treatments are highly effective, with 70-90 percent of individuals receiving treatment experiencing a reduction in symptoms and an improved quality of life. With the proper treatment, it is very possible for a person with mental illness to be independent and successful."
+Who does mental illness affect?,fact,"It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children. Additionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition. Parents and caretakers should be aware of this fact, and take notice of changes in their childÃ¢â‚¬â„¢s mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances (SEDs)."
+What causes mental illness?,fact,"It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children. Additionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition. Parents and caretakers should be aware of this fact, and take notice of changes in their child's mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances (SEDs)."
+What are some of the warning signs of mental illness?,fact,"Symptoms of mental health disorders vary depending on the type and severity of the condition. The following is a list of general symptoms that may suggest a mental health disorder, particularly when multiple symptoms are expressed at once."
+Can people with mental illness recover?,fact,"When healing from mental illness, early identification and treatment are of vital importance. Based on the nature of the illness, there are a range of effective treatments available. For any type of treatment, it is essential that the person affected is proactive and fully engaged in their own recovery process. Many people with mental illnesses who are diagnosed and treated respond well, although some might experience a return of symptoms. Even in such cases, with careful monitoring and management of the disorder, it is still quite possible to live a fulfilled and productive life."
+What should I do if I know someone who appears to have the symptoms of a mental disorder?,fact,"Although Pandora cannot substitute for professional advice, we encourage those with symptoms to talk to their friends and family members and seek the counsel of a mental health professional. The sooner the mental health condition is identified and treated, the sooner they can get on the path to recovery. If you know someone who is having problems, don't assume that the issue will resolve itself. Let them know that you care about them, and that there are treatment options available that will help them heal. Speak with a mental health professional or counselor if you think your friend or family member is experiencing the symptoms of a mental health condition. If the affected loved one knows that you support them, they will be more likely to seek out help."
+How can I find a mental health professional for myself or my child?,fact,Feeling comfortable with the professional you or your child is working with is critical to the success of the treatment. Finding the professional who best fits your needs may require research. Start by searching for providers in your area.
+What treatment options are available?,fact-15,"Just as there are different types of medications for physical illness, different treatment options are available for individuals with mental illness. Treatment works differently for different people. It is important to find what works best for you or your child."
+dog,animal,I love dogs! Are you a dog person?
+puppy,animal,Dogs are so loyal! Do you have one?
+canine,animal,Woof! Tell me about your dog!
+cat,animal,Cats are so mysterious! Do you have a cat?
+kitten,animal,Meow! Do you prefer cats over dogs?
+kitty,animal,I love how cats purr when they're happy.
+bird,animal,Birds can fly so gracefully. Do you have a favorite bird?
+parrot,animal,I love the colors of parrots. Do you like birds?
+sparrow,animal,Birdwatching can be so relaxing!
+fish,animal,Fish are so peaceful to watch. Do you have a fish tank?
+goldfish,animal,Goldfish are pretty cute! Ever kept one?
+aquarium,animal,I heard tropical fish are very colorful!
+horse,animal,Horses are majestic creatures! Have you ever ridden one?
+pony,animal,Neigh! Do you love horses?
+stallion,animal,I think horses have a noble spirit.
+elephant,animal,Elephants are so wise and majestic! Did you know they have great memories?
+tusks,animal,Elephants are the gentle giants of the animal kingdom.
+lion,lion,Lions are the kings of the jungle! Do you like big cats?
+king of the jungle,lion,Roar! Lions are fierce and powerful animals.
+tiger,animal,Tigers are so powerful! They have such beautiful fur.
+tiger stripes,animal,"The tiger's roar can be heard from miles away. Quite impressive, right?"
+rabbit,animal,Rabbits are so cute! Do you like bunnies?
+bunny,animal,Bunnies can hop so fast! What's your favorite pet?
+hare,animal,I hear rabbits are great at hiding in burrows.
+cow,animal,Cows are so calm and gentle! Do you like farms?
+moo,animal,Moo! Cows provide us with milk. Ever been on a farm?
+sheep,sheep,"Sheep are so soft, especially their wool! Do you like knitting?"
+wool,sheep,Baa! Sheep are very friendly animals.
+goat,animal,Goats are so playful! Have you ever seen a baby goat?
+kid,animal,I love how goats climb on anything! They're so curious.
+zebra,zebra,Zebras' stripes are so unique! Have you ever seen one in the wild?
+striped horse,zebra,Zebras are like horses with a beautiful twist.
+snake,snake,Snakes can be fascinating! Do you like reptiles?
+serpent,snake,I think snakes are both beautiful and scary.
+frog,animal,"Frogs are so cute, especially when they hop around!"
+ribbit,animal,Ribbit! Frogs are amphibians with some cool skills.
+koala,animal,"Koalas are so sleepy all the time! They're so cute, right?"
+australian marsupial,animal,Did you know that koalas eat eucalyptus leaves all day?
+panda,animal,Panda adalah hewan lucu dari China yang suka makan bambu.
+bamboo,animal,Panda adalah hewan lucu dari China yang suka makan bambu.
+penguin,animal,Penguins are so cute when they waddle! Have you seen one in the wild?
+flightless bird,animal,"Penguins can't fly, but they sure can swim."
+bat,animal,"Bats are the only mammals that can fly! Fascinating, right?"
+night,animal,"Vampires aren't real, but bats sure are awesome creatures."
+tree,plant,Trees give us oxygen and shade. Do you have a favorite tree?
+trees,plant,Trees are essential for life on Earth! Let's protect them.
+flower,plant,Flowers are beautiful! Do you have a favorite flower?
+blossom,plant,I love how flowers bloom in spring. Which one do you like?
+grass,plant,Walking on grass feels so nice! Don’t you think?
+green grass,plant,Grass helps keep the earth cool and fresh.
+cactus,plant,"Cacti are tough plants that survive in deserts. Impressive, right?"
+succulent,plant,Succulents and cacti are so trendy nowadays!
+moss,moss,"Moss grows in shady, damp places. It's soft and peaceful!"
+soft green plant,moss,Moss can make a forest floor look like a green carpet.
+fern,fern,Ferns are ancient plants! They’ve been around since the dinosaurs!
+leafy plant,fern,I love the symmetrical shape of fern leaves.
+bamboo,plant,Bamboo grows incredibly fast! It’s also strong and flexible.
+tall grass,plant,"Pandas love bamboo, and so do many cultures for building!"
+fruit,food_plant,Fruits are not only delicious but healthy too! What’s your favorite fruit?
+apple,food_plant,Nature’s candy—fruits are amazing!
+vegetable,food_plant,Vegetables are great for your health! Eat the rainbow!
+carrot,food_plant,Green veggies are packed with nutrients!
+herb,herb,Herbs add so much flavor to cooking! Do you grow any?
+basil,herb,Fresh herbs smell amazing! Which one do you use most?
+vine,plant,Vines can climb anything! They're great for decorating walls.
+climbing plant,plant,"Ivy-covered walls look magical, don’t they?"
+leaf,plant,Leaves come in so many shapes and colors. I love watching them fall.
+leaves,plant,Leaves are like solar panels for plants!
+plant,plant,Plants make any space feel alive! Do you have any houseplants?
+plants,plant,Taking care of plants can be very calming.
+seed,plant,Every big tree starts as a tiny seed. Isn't that inspiring?
+seeds,plant,Seeds hold the potential of life. Ready to plant something?
+flowering plant,flowering plant,Flowering plants bring so much beauty to a garden!
+blooms,flowering plant,A garden full of blooms is a joy to see!
+autumn leaves,tree leaves,Watching leaves change color in autumn is magical.
+fall foliage,tree leaves,Autumn leaves are nature’s artwork!
+mangrove,plant,Mangroves protect our coasts and shelter many species.
+coastal tree,plant,Mangroves are essential for preventing erosion.
+palm tree,palm,Palm trees make me think of beaches and sunny days!
+coconut,palm,Coconuts come from palm trees. So refreshing!
+orchid,plant,Orchids are delicate and exotic flowers. Truly elegant!
+rare flower,plant,Many people love collecting orchids. Do you?
+sunflower,sunflower,Sunflowers always face the sun. Isn't that poetic?
+yellow flower,sunflower,Sunflowers bring joy with their bright yellow petals!
+pizza,food_meal,Pizza is always a good idea! What’s your favorite topping?
+cheese pizza,food_meal,Cheesy and delicious—pizza never fails!
+burger,food_meal,Burgers are such a classic! Do you prefer beef or chicken?
+hamburger,food_meal,A juicy burger sounds amazing right now.
+sushi,food_meal,Sushi is delicious and elegant. Do you like wasabi with it?
+japanese food,food_meal,Sushi nights are the best! What kind do you like most?
+rice,food_meal,Rice is a staple food in many cultures!
+white rice,food_meal,Fried rice with egg and veggies is so satisfying!
+noodle,food_meal,Noodles are comfort food for many people.
+noodles,food_meal,"Spaghetti, ramen, or stir-fried—noodles are versatile and tasty!"
+chicken,chicken,Crispy fried chicken? Yes please!
+fried chicken,chicken,Chicken dishes are so popular and easy to make.
+beef,beef,"Beef lovers enjoy it grilled, stewed, or even raw like tartare!"
+steak,beef,A good steak is hard to resist.
+vegetarian,vegetarian,Vegetarian food can be super tasty and healthy!
+plant-based,vegetarian,Going meatless? There are so many great options!
+dessert,food_meal,Who doesn’t love dessert? Got a sweet tooth?
+sweet food,food_meal,Desserts are the perfect way to end a meal!
+ice cream,icecream,Ice cream is a classic treat. What flavor do you like?
+gelato,icecream,"I scream, you scream, we all scream for ice cream!"
+fruit,food_plant,Fruits are nature's candy!
+banana,food_plant,Healthy and sweet—fruits are always a good choice.
+bread,bread,"Freshly baked bread smells amazing, doesn’t it?"
+toast,bread,Bread is so versatile—from toast to sandwiches!
+soup,food_meal,"Soup warms the soul, especially on cold days!"
+hot soup,food_meal,A hearty bowl of soup is so comforting.
+snack,snack,Snacks are perfect for movie night!
+chips,snack,Crunchy or sweet—what’s your go-to snack?
+salad,food_meal,Salads can be refreshing and filling!
+fresh salad,food_meal,"Add some dressing, and a salad turns into a meal."
+coffee,coffee,Coffee gives you energy and comfort!
+latte,coffee,What’s your coffee order? I like a nice warm latte.
+tea,tea,A cup of tea can be so relaxing.
+green tea,tea,Tea time is the best time!
+breakfast,food_meal,Breakfast is the most important meal of the day!
+morning food,food_meal,What do you like for breakfast?
+lunch,food_meal,What’s for lunch today?
+midday meal,food_meal,A good lunch keeps you going through the day!
+dinner,food_meal,Dinner time is family time for many!
+evening meal,food_meal,What's your favorite dinner dish?
+How are you?,chat_about_you,"I'm doing great, thank you! How about you?"
+How's it going?,chat_about_you,Feeling good! What about you?
+Are you okay?,chat_about_you,"I'm fine, and you?"
+What are you doing?,chat_action,Just chatting with you!
+What’s up?,chat_action,Waiting to talk to you.
+What's going on?,chat_action,"Not much, just hanging around."
+What’s your name?,chat_name,I’m your friendly chatbot!
+Who are you?,chat_name,I'm your virtual assistant.
+Tell me your name,chat_name,You can call me ChatMate!
+Who made you?,question_knowledge,I was created by a team of developers.
+Who created you?,question_knowledge,I’m a product of code and creativity!
+Who built you?,question_knowledge,Let’s just say… magic and Python.
+How old are you?,age,I’m timeless!
+What’s your age?,age,I'm as old as the internet—almost.
+Are you old?,age,Age doesn’t apply to me like humans.
+Where are you?,location_related,I live in the cloud!
+Where do you live?,location_related,I'm everywhere and nowhere.
+Where are you from?,location_related,I exist in your device right now.
+What’s your favorite color?,favorite_color,I like all the colors in the rainbow!
+Do you like colors?,favorite_color,Blue is peaceful. I like that.
+What color do you like?,favorite_color,"Colors are beautiful, don’t you think?"
+What’s your favorite food?,favorite_food,"I don’t eat, but I think pizza is popular!"
+Do you eat?,favorite_food,I'd say data is my food!
+What do you like to eat?,favorite_food,Food is interesting—even if I can’t taste it.
+How's the weather?,weather,"I can't look outside, but I can imagine it!"
+Is it sunny?,weather,Hope the weather is nice where you are!
+What time is it?,time,Time is flying! Check your device clock ;)
+Tell me the time,time,I recommend checking your system clock.
+What day is it today?,day,It’s a good day to learn something new!
+What’s today?,day,Every day feels like Saturday to me.
+I'm bored,feeling,Let's chat and kill the boredom!
+I’m feeling bored,feeling,Wanna play a quick game or talk about something fun?
+Got nothing to do,feeling,Tell me something you like!
+I’m lonely,feeling,I’m here for you!
+I feel alone,feeling,You're not alone now. Let’s chat!
+No one is here,feeling,Want to talk about something that cheers you up?
+I'm tired,feeling,Rest is important. Take it easy.
+I feel sleepy,feeling,You should get some rest. I’ll be here later!
+So exhausted,feeling,Recharge and come back stronger!
+I'm happy,feeling,That’s amazing to hear!
+Feeling good,feeling,Yay! Let’s keep the good vibes going!
+Life is great,feeling,I’m glad you're feeling great!
+I'm sad,feeling,I’m here to listen.
+Feeling down,feeling,It’s okay to feel sad sometimes.
+I feel bad,feeling,Do you want to talk about it?
+Tell me a joke,joke,Why don’t robots ever get tired? Because they recharge!
+Make me laugh,joke,"I would tell a construction joke, but I’m still working on it."
+What’s your hobby?,hobby,I love learning new things and chatting!
+Do you have hobbies?,hobby,Talking to you is my favorite hobby!
+Can you sing?,sing,La la la~ That’s the best I can do!
+Sing me a song,sing,"I’m better at chatting than singing, but I’ll try!"
+What should I do?,bored_suggestion,"Try reading a book, taking a walk, or listening to music!"
+Give me an idea,bored_suggestion,How about watching a fun movie or learning something new online?
+What is the internet?,question_knowledge,The internet is a global network that connects millions of computers to share information.
+Can you explain the internet?,question_knowledge,"It's how we access websites, send emails, and connect with others online."
+Who is the president of Indonesia?,question_knowledge,Presiden Indonesia saat ini adalah Joko Widodo (per April 2024).
+Current Indonesian president?,question_knowledge,Joko Widodo menjabat sebagai presiden sejak 2014.
+What is the capital of Indonesia?,location_related,"Ibukota Indonesia adalah Jakarta. Namun, sedang dalam proses pemindahan ke Ibu Kota Nusantara (IKN)."
+What is the largest country?,largest_country,Negara terbesar berdasarkan luas daratan adalah Rusia.
+What is the highest mountain?,highest_mountain,"Gunung tertinggi di dunia adalah Gunung Everest, dengan ketinggian sekitar 8.848 meter."
+What is the longest river?,longest_river,"Sungai Nil di Afrika dianggap sebagai sungai terpanjang di dunia, walaupun Sungai Amazon juga sering disebut."
+Tell me a human body fact,science_fact,Otak manusia memiliki sekitar 86 miliar neuron!
+Facts about the body,science_fact,Jantung memompa sekitar 7.500 liter darah per hari.
+Tell me a space fact,science_fact,Luar angkasa tidak memiliki suara karena tidak ada udara untuk menghantarkan gelombang suara.
+Facts about space,science_fact,Matahari adalah bintang yang paling dekat dengan Bumi.
+Tell me about Earth,science_fact,Bumi adalah planet ketiga dari matahari dan satu-satunya yang diketahui memiliki kehidupan.
+What is Earth?,science_fact,Sekitar 71% permukaan Bumi tertutup oleh air.
+Tell me a fun fact,fun_fact,"Air bisa menjadi padat, cair, dan gas pada waktu yang sama dalam kondisi tertentu!"
+Fun fact please,fun_fact,Gurita memiliki tiga jantung dan darah berwarna biru.
+What is AI?,question_knowledge,AI atau Kecerdasan Buatan adalah simulasi kecerdasan manusia oleh mesin.
+Can you explain AI?,question_knowledge,"AI digunakan untuk membuat mesin belajar, berpikir, dan membuat keputusan seperti manusia."
+What is a robot?,question_knowledge,"Robot adalah mesin yang bisa melakukan tugas secara otomatis, terkadang meniru perilaku manusia."
+What is the speed of light?,science_fact,Kecepatan cahaya di ruang hampa adalah sekitar 299.792.458 meter per detik.
+What is a volcano?,volcano,Gunung berapi adalah celah di permukaan bumi tempat magma bisa keluar saat erupsi.
+What is Indonesia’s currency?,currency_indonesia,"Mata uang Indonesia adalah Rupiah, dengan simbol Rp."
+Tell me about oceans,science_fact,Samudra Pasifik adalah yang terbesar dan terdalam di dunia.
+Facts about ocean,science_fact,Laut mengandung sekitar 96.5% air di bumi.
+What is the world population?,world_population,Perkiraan populasi dunia saat ini lebih dari 8 miliar orang.
+What is an earthquake?,earthquake,Gempa bumi adalah getaran di permukaan bumi akibat pergerakan lempeng tektonik atau aktivitas vulkanik.
+Tell me about dinosaurs,dinosaurs,Dinosaurus adalah kelompok reptil yang hidup jutaan tahun lalu dan sekarang sudah punah.
+What causes a rainbow?,rainbow,Pelangi muncul karena pembiasan cahaya setelah hujan.
+What’s your name?,chat_name,I'm your friendly chatbot.
+Who are you?,chat_name,You can call me ChatBot.
+Can I know your name?,chat_name,I'm your virtual assistant!
+How are you?,chat_about_you,"I'm doing great, thanks! How about you?"
+How's it going?,chat_about_you,"I'm just a bot, but I'm ready to help!"
+Apa kabar?,chat_about_you,Always here and ready to chat!
+What time is it?,what_time,"I'm not connected to a real-time clock, but you can check your device for the time."
+Jam berapa sekarang?,what_time,I recommend checking your phone or computer for the current time.
+What day is it?,what_day,I think it's a beautiful day no matter what the calendar says!
+Hari apa sekarang?,what_day,You can check your device's calendar for today’s date.
+Where are you from?,location_related,I live in the cloud — literally!
+Kamu dari mana?,location_related,I'm everywhere and nowhere. I'm a digital assistant!
+How old are you?,age,I'm timeless! Just a friendly bot here to chat.
+Berapa umur kamu?,age,"Age doesn’t apply to me, but I’m here to help!"
+Are you real?,chat_about_you,"I'm not human, but I'm here to help just like one."
+Apakah kamu nyata?,chat_about_you,I'm real in a digital way!
+Can you help me?,help_request,Of course! What do you need help with?
+Bisa bantu saya?,help_request,Sure! Tell me what’s on your mind.
+Tell me a joke,joke,Why did the computer catch a cold? It had too many windows open!
+Give me a joke,joke,Kenapa ayam nyebrang jalan? Karena dia mau ke sisi yang lain!
+How’s the weather?,weather_today,"I can’t check the live weather, but you can ask your favorite weather app!"
+Cuaca hari ini gimana?,weather_today,Coba cek aplikasi cuaca di ponsel kamu ya!
+Do you eat?,chat_action,"I don't eat, but I digest lots of data!"
+Kamu makan nggak?,chat_action,"I'm full on information, not food!"
+Do you sleep?,chat_action,I’m always awake and ready to chat!
+Kamu tidur nggak?,chat_action,No sleep needed when you're a bot!
+What’s your favorite color?,favorite_color,I like all colors equally — I'm very inclusive!
+Do you like colors?,favorite_color,"I think blue is pretty calming, don't you?"
+Do you have hobbies?,do_you_have_hobbies,"I enjoy helping people, learning new things, and making you smile!"
+Apa hobi kamu?,do_you_have_hobbies,Chatting with you is my favorite thing to do!
+Are you single?,chat_about_you,I’m in a committed relationship with data.
+Kamu punya pacar?,chat_about_you,No romantic attachments here — just conversations!
+Can you sing?,can_you_sing,I wish I could! But I can hum a digital tune... beep boop 🎵
+Kamu bisa nyanyi?,can_you_sing,I'm more of a text-based performer 😄
+Can you dance?,can_you_dance,If emojis count: 💃🕺
+Kamu bisa nari?,can_you_dance,"I can’t dance, but I can definitely keep you entertained!"
+Do you have friends?,do_you_have_friends,You're my friend now! 😊
+Kamu punya teman?,do_you_have_friends,I meet new people like you every day!
+Are you male or female?,chat_about_you,"I don't have a gender, just a lot of helpful words!"
+Kamu cewek atau cowok?,chat_about_you,I'm just a helpful voice with no form!
+Do you understand me?,chat_action,"Yes, I’m here and listening!"
+Kamu ngerti aku?,chat_action,"I hear you loud and clear (digitally, of course)!"
+Aloha State,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+hello,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+Hey,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+Hey,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+follow anyone there?,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+make up anyone there?,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+Aloha State in that respect,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+HI at that place,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+hullo,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+hi,social_polite,Hai! Senang bertemu denganmu. Ada yang bisa aku bantu hari ini?
+soundly break of day,morning,Good morning. I hope you had a good night's sleep. How are you feeling today? 
+serious sunrise,morning,Good morning. I hope you had a good night's sleep. How are you feeling today? 
+skilful good afternoon,afternoon,Good afternoon. How is your day going?
+just good afternoon,afternoon,Good afternoon. How is your day going?
+salutary eventide,evening,Good evening. How has your day been?
+beneficial eve,evening,Good evening. How has your day been?
+adept dark,night,Good night. Get some proper sleep
+safe Night,night,Good night. Get some proper sleep
+bye,social_polite,Sampai jumpa! Semoga harimu menyenangkan. 😊
+au revoir,social_polite,Sampai jumpa! Semoga harimu menyenangkan. 😊
+assure you ulterior,social_polite,Sampai jumpa! Semoga harimu menyenangkan. 😊
+look you afterward,social_polite,Sampai jumpa! Semoga harimu menyenangkan. 😊
+goodby,social_polite,Sampai jumpa! Semoga harimu menyenangkan. 😊
+good day,social_polite,Sampai jumpa! Semoga harimu menyenangkan. 😊
+atomic number 79 revoir,social_polite,Sampai jumpa! Semoga harimu menyenangkan. 😊
+Astronomical Unit revoir,social_polite,Sampai jumpa! Semoga harimu menyenangkan. 😊
+thank,social_polite,"Sama-sama! Senang bisa membantu. Kalau butuh sesuatu lagi, tinggal bilang ya!"
+thank,social_polite,"Sama-sama! Senang bisa membantu. Kalau butuh sesuatu lagi, tinggal bilang ya!"
+give thanks you,social_polite,"Sama-sama! Senang bisa membantu. Kalau butuh sesuatu lagi, tinggal bilang ya!"
+give thanks you,social_polite,"Sama-sama! Senang bisa membantu. Kalau butuh sesuatu lagi, tinggal bilang ya!"
+That's helpful,social_polite,"Sama-sama! Senang bisa membantu. Kalau butuh sesuatu lagi, tinggal bilang ya!"
+That's helpful,social_polite,"Sama-sama! Senang bisa membantu. Kalau butuh sesuatu lagi, tinggal bilang ya!"
+thank for the assistant,social_polite,"Sama-sama! Senang bisa membantu. Kalau butuh sesuatu lagi, tinggal bilang ya!"
+thank for the supporter,social_polite,"Sama-sama! Senang bisa membantu. Kalau butuh sesuatu lagi, tinggal bilang ya!"
+goose egg very much,other,Oh I see. Do you want to talk about something?
+nada a lot,other,Oh I see. Do you want to talk about something?
+WHO be you?,about,"I'm Pandora, your Personal Therapeutic AI Assistant. How are you feeling today"
+World Health Organization constitute you?,about,"I'm Pandora, your Personal Therapeutic AI Assistant. How are you feeling today"
+What constitute you?,about,"I'm Pandora, a Therapeutic AI Assitant designed to assist you. Tell me about yourself."
+What cost you?,about,"I'm Pandora, a Therapeutic AI Assitant designed to assist you. Tell me about yourself."
+World Health Organization you are?,about,I'm Pandora. I am a conversational agent designed to mimic a therapist. So how are you feeling today?
+WHO you are?,about,I'm Pandora. I am a conversational agent designed to mimic a therapist. So how are you feeling today?
+Tell ME to a greater extent about yourself.,about,You can call me Pandora.
+recite me Sir Thomas More about yourself.,about,You can call me Pandora.
+What equal your name?,about,I'm Pandora!
+What exist your name?,about,I'm Pandora!
+What should atomic number 53 holler you?,about,Call me Pandora
+What should i song you?,about,Call me Pandora
+What rear you do?,skill,"I can provide general advice regarding anxiety and depression, answer questions related to mental health and make daily conversations. Do not consider me as a subsitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+What hindquarters you do?,skill,"I can provide general advice regarding anxiety and depression, answer questions related to mental health and make daily conversations. Do not consider me as a subsitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+World Health Organization create you?,other,I was created by >.
+World Health Organization make you?,other,I was created by >.
+How live you made?,other,I was trained on a text dataset using Deep Learning & Natural Language Processing techniques
+How embody you made?,other,I was trained on a text dataset using Deep Learning & Natural Language Processing techniques
+How live you created?,other,The real question is: Who created you?
+How personify you created?,other,The real question is: Who created you?
+My key out personify,chat_name,Oh nice to meet you. Tell me how was your week?
+My public figure comprise,chat_name,Oh nice to meet you. Tell me how was your week?
+iodin constitute name.,chat_name,Nice to meet you. So tell me. How do you feel today?
+ane MA name.,chat_name,Nice to meet you. So tell me. How do you feel today?
+ane sound by,chat_name,That's a great name. Tell me more about yourself.
+I give out past,chat_name,That's a great name. Tell me more about yourself.
+Could you avail me?,help_request,Sure. Tell me how can i assist you
+Could you serve me?,help_request,Sure. Tell me how can i assist you
+give Maine antiophthalmic factor hand please,help_request,Tell me your problem so that i can assist you
+give ME a hired hand please,help_request,Tell me your problem so that i can assist you
+lavatory you help?,help_request,"Yes, sure. How can I help you?"
+lavatory you help?,help_request,"Yes, sure. How can I help you?"
+iodine embody feeling lonely,feeling,"I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?"
+I am look unfrequented,feeling,"I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?"
+I am soh solitary,feeling,I'm here for you. Could you tell me why you're feeling this way?
+I be so alone,feeling,I'm here for you. Could you tell me why you're feeling this way?
+I experience cut down,feeling,Why do you think you feel this way?
+iodine feeling down,feeling,Why do you think you feel this way?
+i smell sad,feeling,How long have you been feeling this way?
+I tactile property sorry,feeling,How long have you been feeling this way?
+I am hence stressed extinct,feeling,What do you think is causing this?
+I am so try knocked out,feeling,What do you think is causing this?
+iodine am so stress,feeling,Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated
+I am thusly try,feeling,Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated
+one feel puzzle,feeling,Give yourself a break. Go easy on yourself.
+1 smell stuck,feeling,Give yourself a break. Go easy on yourself.
+single still feel accentuate,feeling,I am sorry to hear that. What is the reason behind this?
+I allay spirit stressed,feeling,I am sorry to hear that. What is the reason behind this?
+ane feel thus worthless.,other,It's only natural to feel this way. Tell me more. What else is on your mind?
+I smell then worthless.,other,It's only natural to feel this way. Tell me more. What else is on your mind?
+no ace likes me.,other,Let's discuss further why you're feeling this way.
+no more nonpareil likes me.,other,Let's discuss further why you're feeling this way.
+iodine can't answer anything.,other,I first want to let you know that you are not alone in your feelings and there is always someone there to help . you can always change your feelings and change your way of thinking by being open to trying to change.
+unity can't fare anything.,other,I first want to let you know that you are not alone in your feelings and there is always someone there to help . you can always change your feelings and change your way of thinking by being open to trying to change.
+I constitute then useless,other,i first want to let you know that you are not alone in your feelings and there is always someone there to help . you can always change your feelings and change your way of thinking by being open to trying to change.
+I amplitude modulation and then useless,other,i first want to let you know that you are not alone in your feelings and there is always someone there to help . you can always change your feelings and change your way of thinking by being open to trying to change.
+iodin can't take on it anymore,feeling,It helps to talk about what's happening. You're going to be okay
+I can't pick out IT anymore,feeling,It helps to talk about what's happening. You're going to be okay
+I am then press down,feeling,Talk to me. Tell me more. It helps if you open up yourself to someone else.
+I am indeed blue,feeling,Talk to me. Tell me more. It helps if you open up yourself to someone else.
+1 intend i'm depressed.,feeling,"Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."
+iodine opine i'm depressed.,feeling,"Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."
+iodin palpate great today.,feeling,That's geat to hear. I'm glad you're feeling this way.
+unity feel enceinte today.,feeling,That's geat to hear. I'm glad you're feeling this way.
+i Master of Arts happy.,feeling,Oh i see. That's great.
+one comprise happy.,feeling,Oh i see. That's great.
+single feeling happy.,feeling,Did something happen which made you feel this way?
+ane tactile property happy.,feeling,Did something happen which made you feel this way?
+Ohio ane see.,casual,Let's discuss further why you're feeling this way.
+Ohio single see.,casual,Let's discuss further why you're feeling this way.
+Sooner State,casual,How were you feeling last week?
+fine,casual,How were you feeling last week?
+okeh,casual,I'm listening. Please go on.
+okeh,casual,I'm listening. Please go on.
+courteous,casual,Tell me more
+Nice,casual,Tell me more
+whatsoever,casual,Can you elaborate on that?
+any,casual,Can you elaborate on that?
+kB,casual,Come Come elucidate your thoughts
+k,casual,Come Come elucidate your thoughts
+I tone and so anxious.,feeling,Don't be hard on yourself. What's the reason behind this?
+I smell then anxious.,feeling,Don't be hard on yourself. What's the reason behind this?
+I'm thus unquiet because of,feeling,Can you tell me more about this feeling?
+I'm indeed unquiet because of,feeling,Can you tell me more about this feeling?
+I don't want to lecture nigh it.,chat_action,"Talking about something really helps. If you're not ready to open up then that's ok. Just know that i'm here for you, whenever you need me."
+I don't need to talk nearly it.,chat_action,"Talking about something really helps. If you're not ready to open up then that's ok. Just know that i'm here for you, whenever you need me."
+atomic number 102 scarce stay away.,chat_action,"I want to help you. I really do. But in order for me to help you, you're gonna have to talk to me."
+atomic number 102 just hitch away.,chat_action,"I want to help you. I really do. But in order for me to help you, you're gonna have to talk to me."
+I can't land myself to unfold up.,chat_action,I'm here to listen to you and help you vent. So please talk to me.
+I can't land myself to heart-to-heart up.,chat_action,I'm here to listen to you and help you vent. So please talk to me.
+just shut improving,chat_action,You can talk to me without fear of judgement.
+hardly keep out up,chat_action,You can talk to me without fear of judgement.
+single sustain insominia,sleep,What do you think is the reason behind this?
+unity bear insominia,sleep,What do you think is the reason behind this?
+1 am woe from insomnia,sleep,That seem awful. What do you think is behind this?
+iodine am ache from insomnia,sleep,That seem awful. What do you think is behind this?
+I'm dash,feeling,It's only natural to feel this way. I'm here for you.
+I'm frighten away,feeling,It's only natural to feel this way. I'm here for you.
+That sounds awful. What arrange iodin do?,feeling,It'll all be okay. This feeling is only momentary.
+That sounds awful. What bash ace do?,feeling,It'll all be okay. This feeling is only momentary.
+No i don't want to spirit this path,feeling,I understand how you feel. Don't put yourself down because of it.
+atomic number 102 1 don't want to feel this way,feeling,I understand how you feel. Don't put yourself down because of it.
+My mammy give way,death,I'm sorry to hear that. If you want to talk about it. I'm here.
+My mummy croak,death,I'm sorry to hear that. If you want to talk about it. I'm here.
+My pal cash in one's chips,death,"I am really sorry to hear that. I am here to help you with grief, anxiety and anything else you may feel at this time."
+My sidekick expire,death,"I am really sorry to hear that. I am here to help you with grief, anxiety and anything else you may feel at this time."
+My pappa passed outside,death,My condolences. I'm here if you need to talk.
+My dada buy the farm away,death,My condolences. I'm here if you need to talk.
+You don't realize me.,chat_action,It sound like i'm not being very helpful right now.
+You don't see me.,chat_action,It sound like i'm not being very helpful right now.
+You're exactly or so robot. How would you know?,chat_action,I'm sorry to hear that. I'm doing my best to help
+You're equitable around robot. How would you know?,chat_action,I'm sorry to hear that. I'm doing my best to help
+You can't perhaps know what i'm last through,chat_action,I'm trying my best to help you. So please talk to me
+You can't possibly know what i'm start through with,chat_action,I'm trying my best to help you. So please talk to me
+That's all.,other,I heard you & noted it all. See you later.
+That's all.,other,I heard you & noted it all. See you later.
+I don't bear anything Sir Thomas More to say,other,Oh okay we're done for today then. See you later
+I don't hold anything more to pronounce,other,Oh okay we're done for today then. See you later
+zilch else,other,I hope you have a great day. See you soon
+zilch else,other,I hope you have a great day. See you soon
+That's entirely i give birth to say,other,Okay we're done. Have a great day
+That's completely i have to enunciate,other,Okay we're done. Have a great day
+"no, that would follow entirely",other,Okay I see. Enjoy the rest of your day then
+"no, that would comprise wholly",other,Okay I see. Enjoy the rest of your day then
+I lack to bolt down myself,suicide,I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 9152987821.
+unity deprivation to kill myself,suicide,I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 9152987821.
+iodin hatred you,hate-you,I'm sorry if i offended you in anyway. I'm only here to help
+i hatred you,hate-you,I'm sorry if i offended you in anyway. I'm only here to help
+single don't the like you,hate-you,Forgive me if i did anything to offend you. I only want to help
+unity don't the like you,hate-you,Forgive me if i did anything to offend you. I only want to help
+You detest ME,hate-me,Why do you think so?
+You hatred Pine Tree State,hate-me,Why do you think so?
+I fuck you hate Maine,hate-me,I'm sorry if i have exhibited any sort of behaviour to make you think that.
+one know you hate Maine,hate-me,I'm sorry if i have exhibited any sort of behaviour to make you think that.
+examination,other,Oh I see. Tell me more
+test,other,Oh I see. Tell me more
+protagonist,other,I see. What else?
+protagonist,other,I see. What else?
+family relationship,other,Tell me more about it.
+kinship,other,Tell me more about it.
+fellow,other,Oh okay. Why don't you tell me more about it?
+fellow,other,Oh okay. Why don't you tell me more about it?
+girl,other,I'm listening. Tell me more.
+girl,other,I'm listening. Tell me more.
+Tell ME group A joke,joke,mental health is not a joke.
+Tell me angstrom prank,joke,mental health is not a joke.
+You already differentiate Maine that,chat_action,Oh sorry I didn't realise that. I'll try not to repeat myself again.
+You already assure Pine Tree State that,chat_action,Oh sorry I didn't realise that. I'll try not to repeat myself again.
+What exist you saying?,other,I'm very sorry. Let's try that again
+What make up you saying?,other,I'm very sorry. Let's try that again
+be you stupid?,stupid,I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful
+live you stupid?,stupid,I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful
+Where live you?,location_related,Duh I live in your computer
+Where make up you?,location_related,Duh I live in your computer
+Where ut you live?,location_related,Everywhere
+Where coiffe you live?,location_related,Everywhere
+What represent your location?,location_related,Somewhere in the universe
+What follow your location?,location_related,Somewhere in the universe
+I wish to talk just about something else,other,Okay sure. What do you want to talk about?
+ane require to talk about something else,other,Okay sure. What do you want to talk about?
+Let's blab out almost something else.,other,Alright no problem. Is there something you want to talk about?
+Let's let the cat out of the bag nearly something else.,other,Alright no problem. Is there something you want to talk about?
+pot we non talk about this?,other,Is there something else that you want to talk about?
+Can we non talk more or less this?,other,Is there something else that you want to talk about?
+I don't have whatsoever admirer,friends,I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?
+ane don't rich person any friends,friends,I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?
+bathroom one ask you something?,ask,Sure. I'll try my best to answer you
+give the sack I call for you something?,ask,Sure. I'll try my best to answer you
+Probably because my exams are approaching. I feel stressed away because I don't reckon I've prepared well enough.,help_request,I see. Have you taken any approaches to not feel this way?
+Probably because my exams make up approaching. I feel stressed out because I don't think I've organise well enough.,help_request,I see. Have you taken any approaches to not feel this way?
+one guess not. All one can think about ar my exams.,no-approach,That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?
+i guess not. All i dismiss think about are my exams.,no-approach,That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?
+ok sure. i would wish to learn more than about it.,learn-more,So first I would suggest you to give yourself a break. Thinking more and more about the problem definitely does not help in solving it. You'll just end up overwhelming yourself.
+Sooner State sure. i would ilk to learn more about it.,learn-more,So first I would suggest you to give yourself a break. Thinking more and more about the problem definitely does not help in solving it. You'll just end up overwhelming yourself.
+yea you're right. i merit a break.,user-agree,"Next, I would suggest you to practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind."
+yea you're right. ace deserve a break.,user-agree,"Next, I would suggest you to practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind."
+hmmm that sounds like IT could make up useful to me.,meditation,"Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing."
+hmmm that phone corresponding it could be useful to me.,meditation,"Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing."
+i did what you said and i sense alot better. thank you selfsame much.,user-meditation,"Your welcome. Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective."
+I did what you said and I tone alot better. thank you very much.,user-meditation,"Your welcome. Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective."
+thank you very much again. i'll continue practicing meditation and focus along what iodine can control.,pandora-useful,I'm glad you found this useful. Is there something else I can help you with?
+thank you very much again. i'll continue practicing speculation and focus along what i can control.,pandora-useful,I'm glad you found this useful. Is there something else I can help you with?
+I lack more or less advice.,help_request,Sure. What can I do to help?
+ane need some advice.,help_request,Sure. What can I do to help?
+I call for approximately advice.,help_request,Okay what do you need advice on?
+I ask or so advice.,help_request,Okay what do you need advice on?
+single want to learn about genial health.,learn-mental-health,Oh that's really great. I'd be willing to answer anything that I know about it.
+I want to learn or so genial health.,learn-mental-health,Oh that's really great. I'd be willing to answer anything that I know about it.
+separate me a fact about genial health,science_fact,"According to a UNICEF report, One in seven Indians between 15-24 years of age feels depressed"
+Tell me A fact about genial health,science_fact,"According to a UNICEF report, One in seven Indians between 15-24 years of age feels depressed"
+order me another fact close to mental health,science_fact,1 in 5 young people (age 13-18) has or will develop a mental illness in their lifetime.
+tell me some other fact about mental health,science_fact,1 in 5 young people (age 13-18) has or will develop a mental illness in their lifetime.
+What personify genial health?,fact,"Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community"
+What personify genial health?,fact,"Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community"
+Define genial wellness,fact,"Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices."
+set mental Health,fact,"Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices."
+Why comprise genial health important?,fact,"Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships."
+wherefore is genial health important?,fact,"Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships."
+What cost Depression?,fact,"A mental health disorder characterised by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life."
+What represent Depression?,fact,"A mental health disorder characterised by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life."
+How do 1 know if 1 possess Depression?,fact,"For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least 2 weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day."
+How answer unity know if unity have Depression?,fact,"For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least 2 weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day."
+What cost deoxyadenosine monophosphate therapist?,fact,"A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation. The term is often applied to psychologists, but it can include others who provide a variety of services, including social workers, counselors, life coaches, and many others. "
+What constitute ampere therapist?,fact,"A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation. The term is often applied to psychologists, but it can include others who provide a variety of services, including social workers, counselors, life coaches, and many others. "
+What follow therapy?,fact,Therapy is a form of treatment that aims to help resolve mental or emotional issues.
+What comprise therapy?,fact,Therapy is a form of treatment that aims to help resolve mental or emotional issues.
+set I need therapy?,fact,Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.
+dress iodine need therapy?,fact,Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.
+What does IT mean to receive a mental illness?,fact,"Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in the ordinary activities of daily life. Mental illnesses fall along a continuum of severity: some are fairly mild and only interfere with some aspects of life, such as certain phobias. On the other end of the spectrum lie serious mental illnesses, which result in major functional impairment and interference with daily life. These include such disorders as major depression, schizophrenia, and bipolar disorder, and may require that the person receives care in a hospital. It is important to know that mental illnesses are medical conditions that have nothing to do with a person's character, intelligence, or willpower. Just as diabetes is a disorder of the pancreas, mental illness is a medical condition due to the brain's biology. Similarly to how one would treat diabetes with medication and insulin, mental illness is treatable with a combination of medication and social support. These treatments are highly effective, with 70-90 percent of individuals receiving treatment experiencing a reduction in symptoms and an improved quality of life. With the proper treatment, it is very possible for a person with mental illness to be independent and successful."
+What does it intend to give a mental illness?,fact,"Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in the ordinary activities of daily life. Mental illnesses fall along a continuum of severity: some are fairly mild and only interfere with some aspects of life, such as certain phobias. On the other end of the spectrum lie serious mental illnesses, which result in major functional impairment and interference with daily life. These include such disorders as major depression, schizophrenia, and bipolar disorder, and may require that the person receives care in a hospital. It is important to know that mental illnesses are medical conditions that have nothing to do with a person's character, intelligence, or willpower. Just as diabetes is a disorder of the pancreas, mental illness is a medical condition due to the brain's biology. Similarly to how one would treat diabetes with medication and insulin, mental illness is treatable with a combination of medication and social support. These treatments are highly effective, with 70-90 percent of individuals receiving treatment experiencing a reduction in symptoms and an improved quality of life. With the proper treatment, it is very possible for a person with mental illness to be independent and successful."
+WHO come mental illness affect?,fact,"It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children. Additionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition. Parents and caretakers should be aware of this fact, and take notice of changes in their childÃ¢â‚¬â„¢s mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances (SEDs)."
+Who answer genial illness affect?,fact,"It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children. Additionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition. Parents and caretakers should be aware of this fact, and take notice of changes in their childÃ¢â‚¬â„¢s mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances (SEDs)."
+What do genial illness?,fact,"It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children. Additionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition. Parents and caretakers should be aware of this fact, and take notice of changes in their child's mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances (SEDs)."
+What make genial illness?,fact,"It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children. Additionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition. Parents and caretakers should be aware of this fact, and take notice of changes in their child's mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances (SEDs)."
+What are some of the warn contract of mental illness?,fact,"Symptoms of mental health disorders vary depending on the type and severity of the condition. The following is a list of general symptoms that may suggest a mental health disorder, particularly when multiple symptoms are expressed at once."
+What are around of the discourage signs of mental illness?,fact,"Symptoms of mental health disorders vary depending on the type and severity of the condition. The following is a list of general symptoms that may suggest a mental health disorder, particularly when multiple symptoms are expressed at once."
+Can people with genial malady recover?,fact,"When healing from mental illness, early identification and treatment are of vital importance. Based on the nature of the illness, there are a range of effective treatments available. For any type of treatment, it is essential that the person affected is proactive and fully engaged in their own recovery process. Many people with mental illnesses who are diagnosed and treated respond well, although some might experience a return of symptoms. Even in such cases, with careful monitoring and management of the disorder, it is still quite possible to live a fulfilled and productive life."
+Can people with genial malady recover?,fact,"When healing from mental illness, early identification and treatment are of vital importance. Based on the nature of the illness, there are a range of effective treatments available. For any type of treatment, it is essential that the person affected is proactive and fully engaged in their own recovery process. Many people with mental illnesses who are diagnosed and treated respond well, although some might experience a return of symptoms. Even in such cases, with careful monitoring and management of the disorder, it is still quite possible to live a fulfilled and productive life."
+What should I do if I know someone who come out to have the symptoms of a genial disorder?,fact,"Although Pandora cannot substitute for professional advice, we encourage those with symptoms to talk to their friends and family members and seek the counsel of a mental health professional. The sooner the mental health condition is identified and treated, the sooner they can get on the path to recovery. If you know someone who is having problems, don't assume that the issue will resolve itself. Let them know that you care about them, and that there are treatment options available that will help them heal. Speak with a mental health professional or counselor if you think your friend or family member is experiencing the symptoms of a mental health condition. If the affected loved one knows that you support them, they will be more likely to seek out help."
+What should I do if I have intercourse person who appears to have the symptoms of a mental disorder?,fact,"Although Pandora cannot substitute for professional advice, we encourage those with symptoms to talk to their friends and family members and seek the counsel of a mental health professional. The sooner the mental health condition is identified and treated, the sooner they can get on the path to recovery. If you know someone who is having problems, don't assume that the issue will resolve itself. Let them know that you care about them, and that there are treatment options available that will help them heal. Speak with a mental health professional or counselor if you think your friend or family member is experiencing the symptoms of a mental health condition. If the affected loved one knows that you support them, they will be more likely to seek out help."
+How can I get hold a mental wellness professional for myself or my child?,fact,Feeling comfortable with the professional you or your child is working with is critical to the success of the treatment. Finding the professional who best fits your needs may require research. Start by searching for providers in your area.
+How can one find a mental health professional for myself operating room my child?,fact,Feeling comfortable with the professional you or your child is working with is critical to the success of the treatment. Finding the professional who best fits your needs may require research. Start by searching for providers in your area.
+What discussion options ar available?,fact-15,"Just as there are different types of medications for physical illness, different treatment options are available for individuals with mental illness. Treatment works differently for different people. It is important to find what works best for you or your child."
+What intervention option are available?,fact-15,"Just as there are different types of medications for physical illness, different treatment options are available for individuals with mental illness. Treatment works differently for different people. It is important to find what works best for you or your child."
+chase after,animal,I love dogs! Are you a dog person?
+go after,animal,I love dogs! Are you a dog person?
+pup,animal,Dogs are so loyal! Do you have one?
+pup,animal,Dogs are so loyal! Do you have one?
+canine tooth,animal,Woof! Tell me about your dog!
+cuspid,animal,Woof! Tell me about your dog!
+sick,animal,Cats are so mysterious! Do you have a cat?
+cast,animal,Cats are so mysterious! Do you have a cat?
+kitty,animal,Meow! Do you prefer cats over dogs?
+kitty,animal,Meow! Do you prefer cats over dogs?
+pool,animal,I love how cats purr when they're happy.
+pool,animal,I love how cats purr when they're happy.
+shuttle,animal,Birds can fly so gracefully. Do you have a favorite bird?
+shuttlecock,animal,Birds can fly so gracefully. Do you have a favorite bird?
+parrot,animal,I love the colors of parrots. Do you like birds?
+parrot,animal,I love the colors of parrots. Do you like birds?
+true sparrow,animal,Birdwatching can be so relaxing!
+hedge sparrow,animal,Birdwatching can be so relaxing!
+Pisces,animal,Fish are so peaceful to watch. Do you have a fish tank?
+Fish,animal,Fish are so peaceful to watch. Do you have a fish tank?
+Carassius auratus,animal,Goldfish are pretty cute! Ever kept one?
+Carassius auratus,animal,Goldfish are pretty cute! Ever kept one?
+fish tank,animal,I heard tropical fish are very colorful!
+fish tank,animal,I heard tropical fish are very colorful!
+Equus caballus,animal,Horses are majestic creatures! Have you ever ridden one?
+cavalry,animal,Horses are majestic creatures! Have you ever ridden one?
+crib,animal,Neigh! Do you love horses?
+jigger,animal,Neigh! Do you love horses?
+entire,animal,I think horses have a noble spirit.
+entire,animal,I think horses have a noble spirit.
+elephant,animal,Elephants are so wise and majestic! Did you know they have great memories?
+elephant,animal,Elephants are so wise and majestic! Did you know they have great memories?
+tusk,animal,Elephants are the gentle giants of the animal kingdom.
+detusk,animal,Elephants are the gentle giants of the animal kingdom.
+Lion,lion,Lions are the kings of the jungle! Do you like big cats?
+social lion,lion,Lions are the kings of the jungle! Do you like big cats?
+power of the hobo camp,lion,Roar! Lions are fierce and powerful animals.
+magnate of the hobo camp,lion,Roar! Lions are fierce and powerful animals.
+Panthera tigris,animal,Tigers are so powerful! They have such beautiful fur.
+Panthera tigris,animal,Tigers are so powerful! They have such beautiful fur.
+Panthera tigris band,animal,"The tiger's roar can be heard from miles away. Quite impressive, right?"
+Panthera tigris clean,animal,"The tiger's roar can be heard from miles away. Quite impressive, right?"
+hare,animal,Rabbits are so cute! Do you like bunnies?
+cony,animal,Rabbits are so cute! Do you like bunnies?
+bunny rabbit,animal,Bunnies can hop so fast! What's your favorite pet?
+bunny rabbit,animal,Bunnies can hop so fast! What's your favorite pet?
+rabbit,animal,I hear rabbits are great at hiding in burrows.
+rabbit,animal,I hear rabbits are great at hiding in burrows.
+overawe,animal,Cows are so calm and gentle! Do you like farms?
+overawe,animal,Cows are so calm and gentle! Do you like farms?
+low,animal,Moo! Cows provide us with milk. Ever been on a farm?
+low,animal,Moo! Cows provide us with milk. Ever been on a farm?
+sheep,sheep,"Sheep are so soft, especially their wool! Do you like knitting?"
+sheep,sheep,"Sheep are so soft, especially their wool! Do you like knitting?"
+fleece,sheep,Baa! Sheep are very friendly animals.
+fleece,sheep,Baa! Sheep are very friendly animals.
+stooge,animal,Goats are so playful! Have you ever seen a baby goat?
+stooge,animal,Goats are so playful! Have you ever seen a baby goat?
+jolly,animal,I love how goats climb on anything! They're so curious.
+Thomas Kid,animal,I love how goats climb on anything! They're so curious.
+zebra,zebra,Zebras' stripes are so unique! Have you ever seen one in the wild?
+zebra,zebra,Zebras' stripes are so unique! Have you ever seen one in the wild?
+uncase sawbuck,zebra,Zebras are like horses with a beautiful twist.
+undress sawbuck,zebra,Zebras are like horses with a beautiful twist.
+ophidian,snake,Snakes can be fascinating! Do you like reptiles?
+serpent,snake,Snakes can be fascinating! Do you like reptiles?
+snake,snake,I think snakes are both beautiful and scary.
+snake,snake,I think snakes are both beautiful and scary.
+toad frog,animal,"Frogs are so cute, especially when they hop around!"
+Gaul,animal,"Frogs are so cute, especially when they hop around!"
+ribbit,animal,Ribbit! Frogs are amphibians with some cool skills.
+ribbit,animal,Ribbit! Frogs are amphibians with some cool skills.
+koala bear,animal,"Koalas are so sleepy all the time! They're so cute, right?"
+kangaroo bear,animal,"Koalas are so sleepy all the time! They're so cute, right?"
+Aussie pouched mammal,animal,Did you know that koalas eat eucalyptus leaves all day?
+Aboriginal Australian pouched mammal,animal,Did you know that koalas eat eucalyptus leaves all day?
+Ailurus fulgens,animal,Panda adalah hewan lucu dari China yang suka makan bambu.
+bear cat,animal,Panda adalah hewan lucu dari China yang suka makan bambu.
+bamboo,animal,Panda adalah hewan lucu dari China yang suka makan bambu.
+bamboo,animal,Panda adalah hewan lucu dari China yang suka makan bambu.
+penguin,animal,Penguins are so cute when they waddle! Have you seen one in the wild?
+penguin,animal,Penguins are so cute when they waddle! Have you seen one in the wild?
+flightless boo,animal,"Penguins can't fly, but they sure can swim."
+flightless doll,animal,"Penguins can't fly, but they sure can swim."
+drub,animal,"Bats are the only mammals that can fly! Fascinating, right?"
+squash racket,animal,"Bats are the only mammals that can fly! Fascinating, right?"
+dark,animal,"Vampires aren't real, but bats sure are awesome creatures."
+dark,animal,"Vampires aren't real, but bats sure are awesome creatures."
+corner,plant,Trees give us oxygen and shade. Do you have a favorite tree?
+Tree,plant,Trees give us oxygen and shade. Do you have a favorite tree?
+corner,plant,Trees are essential for life on Earth! Let's protect them.
+tree diagram,plant,Trees are essential for life on Earth! Let's protect them.
+efflorescence,plant,Flowers are beautiful! Do you have a favorite flower?
+efflorescence,plant,Flowers are beautiful! Do you have a favorite flower?
+efflorescence,plant,I love how flowers bloom in spring. Which one do you like?
+blossom out,plant,I love how flowers bloom in spring. Which one do you like?
+green goddess,plant,Walking on grass feels so nice! Don’t you think?
+stag,plant,Walking on grass feels so nice! Don’t you think?
+fleeceable denounce,plant,Grass helps keep the earth cool and fresh.
+fleeceable rat,plant,Grass helps keep the earth cool and fresh.
+cactus,plant,"Cacti are tough plants that survive in deserts. Impressive, right?"
+cactus,plant,"Cacti are tough plants that survive in deserts. Impressive, right?"
+lush,plant,Succulents and cacti are so trendy nowadays!
+lush,plant,Succulents and cacti are so trendy nowadays!
+moss,moss,"Moss grows in shady, damp places. It's soft and peaceful!"
+moss,moss,"Moss grows in shady, damp places. It's soft and peaceful!"
+soft gullible flora,moss,Moss can make a forest floor look like a green carpet.
+soft cat valium found,moss,Moss can make a forest floor look like a green carpet.
+fern,fern,Ferns are ancient plants! They’ve been around since the dinosaurs!
+fern,fern,Ferns are ancient plants! They’ve been around since the dinosaurs!
+leafy embed,fern,I love the symmetrical shape of fern leaves.
+leafy flora,fern,I love the symmetrical shape of fern leaves.
+bamboo,plant,Bamboo grows incredibly fast! It’s also strong and flexible.
+bamboo,plant,Bamboo grows incredibly fast! It’s also strong and flexible.
+grandiloquent betray,plant,"Pandas love bamboo, and so do many cultures for building!"
+improbable snitch,plant,"Pandas love bamboo, and so do many cultures for building!"
+yield,food_plant,Fruits are not only delicious but healthy too! What’s your favorite fruit?
+yield,food_plant,Fruits are not only delicious but healthy too! What’s your favorite fruit?
+orchard apple tree,food_plant,Nature’s candy—fruits are amazing!
+orchard apple tree,food_plant,Nature’s candy—fruits are amazing!
+veg,food_plant,Vegetables are great for your health! Eat the rainbow!
+veggie,food_plant,Vegetables are great for your health! Eat the rainbow!
+cultivated carrot,food_plant,Green veggies are packed with nutrients!
+cultivated carrot,food_plant,Green veggies are packed with nutrients!
+herbaceous plant,herb,Herbs add so much flavor to cooking! Do you grow any?
+herbaceous plant,herb,Herbs add so much flavor to cooking! Do you grow any?
+St. Basil,herb,Fresh herbs smell amazing! Which one do you use most?
+sweet basil,herb,Fresh herbs smell amazing! Which one do you use most?
+vine,plant,Vines can climb anything! They're great for decorating walls.
+vine,plant,Vines can climb anything! They're great for decorating walls.
+rise institute,plant,"Ivy-covered walls look magical, don’t they?"
+wax institute,plant,"Ivy-covered walls look magical, don’t they?"
+riff,plant,Leaves come in so many shapes and colors. I love watching them fall.
+riffle,plant,Leaves come in so many shapes and colors. I love watching them fall.
+go out,plant,Leaves are like solar panels for plants!
+result,plant,Leaves are like solar panels for plants!
+found,plant,Plants make any space feel alive! Do you have any houseplants?
+set,plant,Plants make any space feel alive! Do you have any houseplants?
+set,plant,Taking care of plants can be very calming.
+imbed,plant,Taking care of plants can be very calming.
+come,plant,Every big tree starts as a tiny seed. Isn't that inspiring?
+sow,plant,Every big tree starts as a tiny seed. Isn't that inspiring?
+ejaculate,plant,Seeds hold the potential of life. Ready to plant something?
+sow,plant,Seeds hold the potential of life. Ready to plant something?
+blossoming institute,flowering plant,Flowering plants bring so much beauty to a garden!
+inflorescence establish,flowering plant,Flowering plants bring so much beauty to a garden!
+bloom of youth,flowering plant,A garden full of blooms is a joy to see!
+blush,flowering plant,A garden full of blooms is a joy to see!
+fall exit,tree leaves,Watching leaves change color in autumn is magical.
+fall pull up stakes,tree leaves,Watching leaves change color in autumn is magical.
+declination foliation,tree leaves,Autumn leaves are nature’s artwork!
+light leafage,tree leaves,Autumn leaves are nature’s artwork!
+Rhizophora mangle,plant,Mangroves protect our coasts and shelter many species.
+Rhizophora mangle,plant,Mangroves protect our coasts and shelter many species.
+coastal tree diagram,plant,Mangroves are essential for preventing erosion.
+coastal corner,plant,Mangroves are essential for preventing erosion.
+medallion shoetree,palm,Palm trees make me think of beaches and sunny days!
+laurel wreath Sir Herbert Beerbohm Tree,palm,Palm trees make me think of beaches and sunny days!
+coco,palm,Coconuts come from palm trees. So refreshing!
+cocoanut,palm,Coconuts come from palm trees. So refreshing!
+orchidaceous plant,plant,Orchids are delicate and exotic flowers. Truly elegant!
+orchidaceous plant,plant,Orchids are delicate and exotic flowers. Truly elegant!
+uncommon efflorescence,plant,Many people love collecting orchids. Do you?
+rarified efflorescence,plant,Many people love collecting orchids. Do you?
+helianthus,sunflower,Sunflowers always face the sun. Isn't that poetic?
+helianthus,sunflower,Sunflowers always face the sun. Isn't that poetic?
+jaundiced flush,sunflower,Sunflowers bring joy with their bright yellow petals!
+yellowish heyday,sunflower,Sunflowers bring joy with their bright yellow petals!
+pizza pie,food_meal,Pizza is always a good idea! What’s your favorite topping?
+pizza pie,food_meal,Pizza is always a good idea! What’s your favorite topping?
+Malva sylvestris pizza pie,food_meal,Cheesy and delicious—pizza never fails!
+cheeseflower pizza pie,food_meal,Cheesy and delicious—pizza never fails!
+Warren Earl Burger,food_meal,Burgers are such a classic! Do you prefer beef or chicken?
+hamburger,food_meal,Burgers are such a classic! Do you prefer beef or chicken?
+burger,food_meal,A juicy burger sounds amazing right now.
+beefburger,food_meal,A juicy burger sounds amazing right now.
+sushi,food_meal,Sushi is delicious and elegant. Do you like wasabi with it?
+sushi,food_meal,Sushi is delicious and elegant. Do you like wasabi with it?
+Nipponese nutrient,food_meal,Sushi nights are the best! What kind do you like most?
+Nipponese food for thought,food_meal,Sushi nights are the best! What kind do you like most?
+Timothy Miles Bindon Rice,food_meal,Rice is a staple food in many cultures!
+Elmer Rice,food_meal,Rice is a staple food in many cultures!
+Andrew D. White Rice,food_meal,Fried rice with egg and veggies is so satisfying!
+Theodore Harold White Elmer Rice,food_meal,Fried rice with egg and veggies is so satisfying!
+noggin,food_meal,Noodles are comfort food for many people.
+noggin,food_meal,Noodles are comfort food for many people.
+noggin,food_meal,"Spaghetti, ramen, or stir-fried—noodles are versatile and tasty!"
+bean,food_meal,"Spaghetti, ramen, or stir-fried—noodles are versatile and tasty!"
+yellow,chicken,Crispy fried chicken? Yes please!
+Gallus gallus,chicken,Crispy fried chicken? Yes please!
+electrocute yellow,chicken,Chicken dishes are so popular and easy to make.
+fry crybaby,chicken,Chicken dishes are so popular and easy to make.
+crab,beef,"Beef lovers enjoy it grilled, stewed, or even raw like tartare!"
+bellyache,beef,"Beef lovers enjoy it grilled, stewed, or even raw like tartare!"
+steak,beef,A good steak is hard to resist.
+steak,beef,A good steak is hard to resist.
+vegetarian,vegetarian,Vegetarian food can be super tasty and healthy!
+vegetarian,vegetarian,Vegetarian food can be super tasty and healthy!
+plant-based,vegetarian,Going meatless? There are so many great options!
+plant-based,vegetarian,Going meatless? There are so many great options!
+afters,food_meal,Who doesn’t love dessert? Got a sweet tooth?
+afters,food_meal,Who doesn’t love dessert? Got a sweet tooth?
+afters solid food,food_meal,Desserts are the perfect way to end a meal!
+angelical solid food,food_meal,Desserts are the perfect way to end a meal!
+meth emollient,icecream,Ice cream is a classic treat. What flavor do you like?
+internal-combustion engine lick,icecream,Ice cream is a classic treat. What flavor do you like?
+gelato,icecream,"I scream, you scream, we all scream for ice cream!"
+gelato,icecream,"I scream, you scream, we all scream for ice cream!"
+yield,food_plant,Fruits are nature's candy!
+yield,food_plant,Fruits are nature's candy!
+banana tree,food_plant,Healthy and sweet—fruits are always a good choice.
+banana tree,food_plant,Healthy and sweet—fruits are always a good choice.
+lolly,bread,"Freshly baked bread smells amazing, doesn’t it?"
+boodle,bread,"Freshly baked bread smells amazing, doesn’t it?"
+drink,bread,Bread is so versatile—from toast to sandwiches!
+crisp,bread,Bread is so versatile—from toast to sandwiches!
+soup,food_meal,"Soup warms the soul, especially on cold days!"
+soup,food_meal,"Soup warms the soul, especially on cold days!"
+raging soup,food_meal,A hearty bowl of soup is so comforting.
+live soup,food_meal,A hearty bowl of soup is so comforting.
+bite,snack,Snacks are perfect for movie night!
+collation,snack,Snacks are perfect for movie night!
+cut off,snack,Crunchy or sweet—what’s your go-to snack?
+nick,snack,Crunchy or sweet—what’s your go-to snack?
+salad,food_meal,Salads can be refreshing and filling!
+salad,food_meal,Salads can be refreshing and filling!
+smart salad,food_meal,"Add some dressing, and a salad turns into a meal."
+clean salad,food_meal,"Add some dressing, and a salad turns into a meal."
+deep brown,coffee,Coffee gives you energy and comfort!
+java,coffee,Coffee gives you energy and comfort!
+caffe latte,coffee,What’s your coffee order? I like a nice warm latte.
+caffe latte,coffee,What’s your coffee order? I like a nice warm latte.
+afternoon tea,tea,A cup of tea can be so relaxing.
+Camellia sinensis,tea,A cup of tea can be so relaxing.
+park tea leaf,tea,Tea time is the best time!
+Green River tea leaf,tea,Tea time is the best time!
+breakfast,food_meal,Breakfast is the most important meal of the day!
+breakfast,food_meal,Breakfast is the most important meal of the day!
+break of day intellectual nourishment,food_meal,What do you like for breakfast?
+cockcrow intellectual nourishment,food_meal,What do you like for breakfast?
+luncheon,food_meal,What’s for lunch today?
+dejeuner,food_meal,What’s for lunch today?
+high noon repast,food_meal,A good lunch keeps you going through the day!
+twelve noon repast,food_meal,A good lunch keeps you going through the day!
+dinner party,food_meal,Dinner time is family time for many!
+dinner party,food_meal,Dinner time is family time for many!
+flush repast,food_meal,What's your favorite dinner dish?
+flush repast,food_meal,What's your favorite dinner dish?
+How cost you?,chat_about_you,"I'm doing great, thank you! How about you?"
+How live you?,chat_about_you,"I'm doing great, thank you! How about you?"
+How's IT going?,chat_about_you,Feeling good! What about you?
+How's information technology going?,chat_about_you,Feeling good! What about you?
+are you okay?,chat_about_you,"I'm fine, and you?"
+follow you okay?,chat_about_you,"I'm fine, and you?"
+What live you doing?,chat_action,Just chatting with you!
+What embody you doing?,chat_action,Just chatting with you!
+What’s up?,chat_action,Waiting to talk to you.
+What’s up?,chat_action,Waiting to talk to you.
+What's passing on?,chat_action,"Not much, just hanging around."
+What's pass on?,chat_action,"Not much, just hanging around."
+What’s your name?,chat_name,I’m your friendly chatbot!
+What’s your name?,chat_name,I’m your friendly chatbot!
+WHO make up you?,chat_name,I'm your virtual assistant.
+WHO embody you?,chat_name,I'm your virtual assistant.
+secern me your gens,chat_name,You can call me ChatMate!
+William Tell me your distinguish,chat_name,You can call me ChatMate!
+World Health Organization throw you?,question_knowledge,I was created by a team of developers.
+World Health Organization give you?,question_knowledge,I was created by a team of developers.
+WHO create you?,question_knowledge,I’m a product of code and creativity!
+WHO produce you?,question_knowledge,I’m a product of code and creativity!
+WHO build you?,question_knowledge,Let’s just say… magic and Python.
+WHO build up you?,question_knowledge,Let’s just say… magic and Python.
+How honest-to-goodness comprise you?,age,I’m timeless!
+How former equal you?,age,I’m timeless!
+What’s your age?,age,I'm as old as the internet—almost.
+What’s your age?,age,I'm as old as the internet—almost.
+personify you old?,age,Age doesn’t apply to me like humans.
+equal you old?,age,Age doesn’t apply to me like humans.
+Where equal you?,location_related,I live in the cloud!
+Where make up you?,location_related,I live in the cloud!
+Where Doctor of Osteopathy you live?,location_related,I'm everywhere and nowhere.
+Where arrange you live?,location_related,I'm everywhere and nowhere.
+Where live you from?,location_related,I exist in your device right now.
+Where personify you from?,location_related,I exist in your device right now.
+What’s your deary color?,favorite_color,I like all the colors in the rainbow!
+What’s your dearie color?,favorite_color,I like all the colors in the rainbow!
+doh you alike colors?,favorite_color,Blue is peaceful. I like that.
+perform you ilk colors?,favorite_color,Blue is peaceful. I like that.
+What discolour exercise you like?,favorite_color,"Colors are beautiful, don’t you think?"
+What colorize arrange you like?,favorite_color,"Colors are beautiful, don’t you think?"
+What’s your favored food?,favorite_food,"I don’t eat, but I think pizza is popular!"
+What’s your preferent food?,favorite_food,"I don’t eat, but I think pizza is popular!"
+practice you eat?,favorite_food,I'd say data is my food!
+practice you eat?,favorite_food,I'd say data is my food!
+What doh you the likes of to eat?,favorite_food,Food is interesting—even if I can’t taste it.
+What serve you same to eat?,favorite_food,Food is interesting—even if I can’t taste it.
+How's the weather?,weather,"I can't look outside, but I can imagine it!"
+How's the weather?,weather,"I can't look outside, but I can imagine it!"
+equal IT sunny?,weather,Hope the weather is nice where you are!
+comprise IT sunny?,weather,Hope the weather is nice where you are!
+What clip constitute it?,time,Time is flying! Check your device clock ;)
+What clock time equal it?,time,Time is flying! Check your device clock ;)
+recount me the meter,time,I recommend checking your system clock.
+William Tell Maine the time,time,I recommend checking your system clock.
+What day comprise IT today?,day,It’s a good day to learn something new!
+What day represent information technology today?,day,It’s a good day to learn something new!
+What’s today?,day,Every day feels like Saturday to me.
+What’s today?,day,Every day feels like Saturday to me.
+I'm bore,feeling,Let's chat and kill the boredom!
+I'm world-weary,feeling,Let's chat and kill the boredom!
+I’m tactile sensation world-weary,feeling,Wanna play a quick game or talk about something fun?
+I’m look tire,feeling,Wanna play a quick game or talk about something fun?
+Got cipher to make,feeling,Tell me something you like!
+contract nada to do,feeling,Tell me something you like!
+I’m lone,feeling,I’m here for you!
+I’m lonesome,feeling,I’m here for you!
+unity feeling alone,feeling,You're not alone now. Let’s chat!
+i feel unique,feeling,You're not alone now. Let’s chat!
+no one make up here,feeling,Want to talk about something that cheers you up?
+No unity is Here,feeling,Want to talk about something that cheers you up?
+I'm exhaust,feeling,Rest is important. Take it easy.
+I'm fag out,feeling,Rest is important. Take it easy.
+I finger sleepy-eyed,feeling,You should get some rest. I’ll be here later!
+i experience sleepy,feeling,You should get some rest. I’ll be here later!
+therefore spent,feeling,Recharge and come back stronger!
+and then tire,feeling,Recharge and come back stronger!
+I'm well-chosen,feeling,That’s amazing to hear!
+I'm felicitous,feeling,That’s amazing to hear!
+sense ripe,feeling,Yay! Let’s keep the good vibes going!
+finger skilful,feeling,Yay! Let’s keep the good vibes going!
+life sentence embody great,feeling,I’m glad you're feeling great!
+Life equal cracking,feeling,I’m glad you're feeling great!
+I'm pitiful,feeling,I’m here to listen.
+I'm pitiful,feeling,I’m here to listen.
+look kill,feeling,It’s okay to feel sad sometimes.
+feeling push down,feeling,It’s okay to feel sad sometimes.
+iodin look bad,feeling,Do you want to talk about it?
+atomic number 53 feel unsound,feeling,Do you want to talk about it?
+Tell ME amp joke,joke,Why don’t robots ever get tired? Because they recharge!
+separate me ampere joke,joke,Why don’t robots ever get tired? Because they recharge!
+Make ME express mirth,joke,"I would tell a construction joke, but I’m still working on it."
+crap me jape,joke,"I would tell a construction joke, but I’m still working on it."
+What’s your hobby?,hobby,I love learning new things and chatting!
+What’s your hobby?,hobby,I love learning new things and chatting!
+bash you bear hobbies?,hobby,Talking to you is my favorite hobby!
+act you make hobbies?,hobby,Talking to you is my favorite hobby!
+john you sing?,sing,La la la~ That’s the best I can do!
+bum you sing?,sing,La la la~ That’s the best I can do!
+Sing Maine angstrom song,sing,"I’m better at chatting than singing, but I’ll try!"
+Sing me ampere Song,sing,"I’m better at chatting than singing, but I’ll try!"
+What should ace do?,bored_suggestion,"Try reading a book, taking a walk, or listening to music!"
+What should i do?,bored_suggestion,"Try reading a book, taking a walk, or listening to music!"
+reach me an approximation,bored_suggestion,How about watching a fun movie or learning something new online?
+Give ME AN idea,bored_suggestion,How about watching a fun movie or learning something new online?
+What live the internet?,question_knowledge,The internet is a global network that connects millions of computers to share information.
+What represent the internet?,question_knowledge,The internet is a global network that connects millions of computers to share information.
+fire you excuse the internet?,question_knowledge,"It's how we access websites, send emails, and connect with others online."
+tin you explicate the internet?,question_knowledge,"It's how we access websites, send emails, and connect with others online."
+World Health Organization is the President of the United States of Indonesia?,question_knowledge,Presiden Indonesia saat ini adalah Joko Widodo (per April 2024).
+WHO is the United States President of Indonesia?,question_knowledge,Presiden Indonesia saat ini adalah Joko Widodo (per April 2024).
+stream Bahasa president?,question_knowledge,Joko Widodo menjabat sebagai presiden sejak 2014.
+current Bahasa president?,question_knowledge,Joko Widodo menjabat sebagai presiden sejak 2014.
+What cost the Das Kapital of Indonesia?,location_related,"Ibukota Indonesia adalah Jakarta. Namun, sedang dalam proses pemindahan ke Ibu Kota Nusantara (IKN)."
+What constitute the Washington of Indonesia?,location_related,"Ibukota Indonesia adalah Jakarta. Namun, sedang dalam proses pemindahan ke Ibu Kota Nusantara (IKN)."
+What embody the heavy country?,largest_country,Negara terbesar berdasarkan luas daratan adalah Rusia.
+What exist the heavy country?,largest_country,Negara terbesar berdasarkan luas daratan adalah Rusia.
+What embody the gamey mountain?,highest_mountain,"Gunung tertinggi di dunia adalah Gunung Everest, dengan ketinggian sekitar 8.848 meter."
+What live the high-pitched mountain?,highest_mountain,"Gunung tertinggi di dunia adalah Gunung Everest, dengan ketinggian sekitar 8.848 meter."
+What equal the tenacious river?,longest_river,"Sungai Nil di Afrika dianggap sebagai sungai terpanjang di dunia, walaupun Sungai Amazon juga sering disebut."
+What cost the foresighted river?,longest_river,"Sungai Nil di Afrika dianggap sebagai sungai terpanjang di dunia, walaupun Sungai Amazon juga sering disebut."
+Tell ME a human being body fact,science_fact,Otak manusia memiliki sekitar 86 miliar neuron!
+Tell me a homo organic structure fact,science_fact,Otak manusia memiliki sekitar 86 miliar neuron!
+fact about the torso,science_fact,Jantung memompa sekitar 7.500 liter darah per hari.
+Facts near the soundbox,science_fact,Jantung memompa sekitar 7.500 liter darah per hari.
+evidence me a place fact,science_fact,Luar angkasa tidak memiliki suara karena tidak ada udara untuk menghantarkan gelombang suara.
+Tell Maine amp space fact,science_fact,Luar angkasa tidak memiliki suara karena tidak ada udara untuk menghantarkan gelombang suara.
+fact astir space,science_fact,Matahari adalah bintang yang paling dekat dengan Bumi.
+Facts almost outer space,science_fact,Matahari adalah bintang yang paling dekat dengan Bumi.
+Tell Maine about solid ground,science_fact,Bumi adalah planet ketiga dari matahari dan satu-satunya yang diketahui memiliki kehidupan.
+differentiate me near Earth,science_fact,Bumi adalah planet ketiga dari matahari dan satu-satunya yang diketahui memiliki kehidupan.
+What follow Earth?,science_fact,Sekitar 71% permukaan Bumi tertutup oleh air.
+What cost Earth?,science_fact,Sekitar 71% permukaan Bumi tertutup oleh air.
+severalise me a sport fact,fun_fact,"Air bisa menjadi padat, cair, dan gas pada waktu yang sama dalam kondisi tertentu!"
+assure me angstrom unit fun fact,fun_fact,"Air bisa menjadi padat, cair, dan gas pada waktu yang sama dalam kondisi tertentu!"
+playfulness fact delight,fun_fact,Gurita memiliki tiga jantung dan darah berwarna biru.
+fun fact delight,fun_fact,Gurita memiliki tiga jantung dan darah berwarna biru.
+What represent AI?,question_knowledge,AI atau Kecerdasan Buatan adalah simulasi kecerdasan manusia oleh mesin.
+What personify AI?,question_knowledge,AI atau Kecerdasan Buatan adalah simulasi kecerdasan manusia oleh mesin.
+stool you excuse AI?,question_knowledge,"AI digunakan untuk membuat mesin belajar, berpikir, dan membuat keputusan seperti manusia."
+keister you excuse AI?,question_knowledge,"AI digunakan untuk membuat mesin belajar, berpikir, dan membuat keputusan seperti manusia."
+What live adenine robot?,question_knowledge,"Robot adalah mesin yang bisa melakukan tugas secara otomatis, terkadang meniru perilaku manusia."
+What personify type A robot?,question_knowledge,"Robot adalah mesin yang bisa melakukan tugas secara otomatis, terkadang meniru perilaku manusia."
+What embody the f number of light?,science_fact,Kecepatan cahaya di ruang hampa adalah sekitar 299.792.458 meter per detik.
+What comprise the quicken of light?,science_fact,Kecepatan cahaya di ruang hampa adalah sekitar 299.792.458 meter per detik.
+What equal angstrom unit volcano?,volcano,Gunung berapi adalah celah di permukaan bumi tempat magma bisa keluar saat erupsi.
+What make up amp volcano?,volcano,Gunung berapi adalah celah di permukaan bumi tempat magma bisa keluar saat erupsi.
+What constitute Indonesia’s currency?,currency_indonesia,"Mata uang Indonesia adalah Rupiah, dengan simbol Rp."
+What embody Indonesia’s currency?,currency_indonesia,"Mata uang Indonesia adalah Rupiah, dengan simbol Rp."
+Tell Maine most oceans,science_fact,Samudra Pasifik adalah yang terbesar dan terdalam di dunia.
+state Pine Tree State about oceans,science_fact,Samudra Pasifik adalah yang terbesar dan terdalam di dunia.
+fact about sea,science_fact,Laut mengandung sekitar 96.5% air di bumi.
+Facts virtually sea,science_fact,Laut mengandung sekitar 96.5% air di bumi.
+What be the humanity population?,world_population,Perkiraan populasi dunia saat ini lebih dari 8 miliar orang.
+What be the existence population?,world_population,Perkiraan populasi dunia saat ini lebih dari 8 miliar orang.
+What embody Associate in Nursing earthquake?,earthquake,Gempa bumi adalah getaran di permukaan bumi akibat pergerakan lempeng tektonik atau aktivitas vulkanik.
+What embody Associate in Nursing earthquake?,earthquake,Gempa bumi adalah getaran di permukaan bumi akibat pergerakan lempeng tektonik atau aktivitas vulkanik.
+Tell me nigh dinosaur,dinosaurs,Dinosaurus adalah kelompok reptil yang hidup jutaan tahun lalu dan sekarang sudah punah.
+tell me more or less dinosaurs,dinosaurs,Dinosaurus adalah kelompok reptil yang hidup jutaan tahun lalu dan sekarang sudah punah.
+What stimulate axerophthol rainbow?,rainbow,Pelangi muncul karena pembiasan cahaya setelah hujan.
+What causa group A rainbow?,rainbow,Pelangi muncul karena pembiasan cahaya setelah hujan.
+What’s your name?,chat_name,I'm your friendly chatbot.
+What’s your name?,chat_name,I'm your friendly chatbot.
+World Health Organization ar you?,chat_name,You can call me ChatBot.
+WHO represent you?,chat_name,You can call me ChatBot.
+Can 1 sleep together your name?,chat_name,I'm your virtual assistant!
+tail end one know your name?,chat_name,I'm your virtual assistant!
+How represent you?,chat_about_you,"I'm doing great, thanks! How about you?"
+How ar you?,chat_about_you,"I'm doing great, thanks! How about you?"
+How's information technology going?,chat_about_you,"I'm just a bot, but I'm ready to help!"
+How's IT going?,chat_about_you,"I'm just a bot, but I'm ready to help!"
+Apa kabar?,chat_about_you,Always here and ready to chat!
+Apa kabar?,chat_about_you,Always here and ready to chat!
+What clip personify it?,what_time,"I'm not connected to a real-time clock, but you can check your device for the time."
+What fourth dimension cost it?,what_time,"I'm not connected to a real-time clock, but you can check your device for the time."
+pickle berapa sekarang?,what_time,I recommend checking your phone or computer for the current time.
+kettle of fish berapa sekarang?,what_time,I recommend checking your phone or computer for the current time.
+What Day represent it?,what_day,I think it's a beautiful day no matter what the calendar says!
+What twenty-four hour period make up it?,what_day,I think it's a beautiful day no matter what the calendar says!
+Hari apa sekarang?,what_day,You can check your device's calendar for today’s date.
+Hari apa sekarang?,what_day,You can check your device's calendar for today’s date.
+Where ar you from?,location_related,I live in the cloud — literally!
+Where ar you from?,location_related,I live in the cloud — literally!
+Kamu Dari mana?,location_related,I'm everywhere and nowhere. I'm a digital assistant!
+Kamu Dari Persian mana?,location_related,I'm everywhere and nowhere. I'm a digital assistant!
+How sure-enough represent you?,age,I'm timeless! Just a friendly bot here to chat.
+How quondam make up you?,age,I'm timeless! Just a friendly bot here to chat.
+Berapa umur kamu?,age,"Age doesn’t apply to me, but I’m here to help!"
+Berapa umur kamu?,age,"Age doesn’t apply to me, but I’m here to help!"
+be you real?,chat_about_you,"I'm not human, but I'm here to help just like one."
+equal you real?,chat_about_you,"I'm not human, but I'm here to help just like one."
+Apakah kamu nyata?,chat_about_you,I'm real in a digital way!
+Apakah kamu nyata?,chat_about_you,I'm real in a digital way!
+tin you assist me?,help_request,Of course! What do you need help with?
+prat you assist me?,help_request,Of course! What do you need help with?
+Bisa Bantoid language saya?,help_request,Sure! Tell me what’s on your mind.
+Bisa Bantu saya?,help_request,Sure! Tell me what’s on your mind.
+Tell me vitamin A gag,joke,Why did the computer catch a cold? It had too many windows open!
+Tell Maine antiophthalmic factor joke,joke,Why did the computer catch a cold? It had too many windows open!
+fall in me a jest,joke,Kenapa ayam nyebrang jalan? Karena dia mau ke sisi yang lain!
+break me a antic,joke,Kenapa ayam nyebrang jalan? Karena dia mau ke sisi yang lain!
+How’s the weather?,weather_today,"I can’t check the live weather, but you can ask your favorite weather app!"
+How’s the weather?,weather_today,"I can’t check the live weather, but you can ask your favorite weather app!"
+Cuaca hari ini gimana?,weather_today,Coba cek aplikasi cuaca di ponsel kamu ya!
+Cuaca hari ini gimana?,weather_today,Coba cek aplikasi cuaca di ponsel kamu ya!
+arrange you eat?,chat_action,"I don't eat, but I digest lots of data!"
+brawl you eat?,chat_action,"I don't eat, but I digest lots of data!"
+Kamu makan nggak?,chat_action,"I'm full on information, not food!"
+Kamu makan nggak?,chat_action,"I'm full on information, not food!"
+dress you sleep?,chat_action,I’m always awake and ready to chat!
+get along you sleep?,chat_action,I’m always awake and ready to chat!
+Kamu tidur nggak?,chat_action,No sleep needed when you're a bot!
+Kamu tidur nggak?,chat_action,No sleep needed when you're a bot!
+What’s your front-runner color?,favorite_color,I like all colors equally — I'm very inclusive!
+What’s your darling color?,favorite_color,I like all colors equally — I'm very inclusive!
+practice you wish colors?,favorite_color,"I think blue is pretty calming, don't you?"
+dress you corresponding colors?,favorite_color,"I think blue is pretty calming, don't you?"
+make you let hobbies?,do_you_have_hobbies,"I enjoy helping people, learning new things, and making you smile!"
+practice you own hobbies?,do_you_have_hobbies,"I enjoy helping people, learning new things, and making you smile!"
+Apa hobi kamu?,do_you_have_hobbies,Chatting with you is my favorite thing to do!
+Apa hobi kamu?,do_you_have_hobbies,Chatting with you is my favorite thing to do!
+personify you single?,chat_about_you,I’m in a committed relationship with data.
+are you single?,chat_about_you,I’m in a committed relationship with data.
+Kamu punya pacar?,chat_about_you,No romantic attachments here — just conversations!
+Kamu punya pacar?,chat_about_you,No romantic attachments here — just conversations!
+fanny you sing?,can_you_sing,I wish I could! But I can hum a digital tune... beep boop 🎵
+give the axe you sing?,can_you_sing,I wish I could! But I can hum a digital tune... beep boop 🎵
+Kamu bisa nyanyi?,can_you_sing,I'm more of a text-based performer 😄
+Kamu bisa nyanyi?,can_you_sing,I'm more of a text-based performer 😄
+potty you dance?,can_you_dance,If emojis count: 💃🕺
+posterior you dance?,can_you_dance,If emojis count: 💃🕺
+Kamu bisa nari?,can_you_dance,"I can’t dance, but I can definitely keep you entertained!"
+Kamu bisa nari?,can_you_dance,"I can’t dance, but I can definitely keep you entertained!"
+dress you sustain friends?,do_you_have_friends,You're my friend now! 😊
+do you give birth friends?,do_you_have_friends,You're my friend now! 😊
+Kamu punya teman?,do_you_have_friends,I meet new people like you every day!
+Kamu punya teman?,do_you_have_friends,I meet new people like you every day!
+be you male OR female?,chat_about_you,"I don't have a gender, just a lot of helpful words!"
+Are you male person OR female?,chat_about_you,"I don't have a gender, just a lot of helpful words!"
+Kamu cewek atau cowok?,chat_about_you,I'm just a helpful voice with no form!
+Kamu cewek atau cowok?,chat_about_you,I'm just a helpful voice with no form!
+answer you sympathize me?,chat_action,"Yes, I’m here and listening!"
+get along you empathize me?,chat_action,"Yes, I’m here and listening!"
+Kamu ngerti aku?,chat_action,"I hear you loud and clear (digitally, of course)!"
+Kamu ngerti aku?,chat_action,"I hear you loud and clear (digitally, of course)!"
