@@ -64,8 +64,4 @@ Proyek ini masih dalam tahap pengembangan dan eksplorasi. Harap memberikan masuk
 ---
 
 Selamat belajar dan bereksperimen membangun chatbot kamu sendiri! 🚀
-```
 
----
-
-Kalau kamu mau, aku bisa langsung bantu generate file `README.md`-nya. Mau?
